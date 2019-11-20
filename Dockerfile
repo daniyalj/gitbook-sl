@@ -1,4 +1,4 @@
-FROM centos:7
+FROM registry.redhat.io/rhel7.7
 MAINTAINER stewartshea <shea.stewart@arctiq.ca>
 
 # Inspired by billryan/gitbook:base
